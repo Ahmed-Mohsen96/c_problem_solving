@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643314726 source:d:\sanfoundery codes\odd_even\main.c
+	<stdio.h>
+	<stdlib.h>
+
