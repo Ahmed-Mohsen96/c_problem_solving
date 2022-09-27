@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1643378549 source:e:\c codes\convert_num_yrs_weks_dys\main.c
+	<stdio.h>
+	<stdlib.h>
+
